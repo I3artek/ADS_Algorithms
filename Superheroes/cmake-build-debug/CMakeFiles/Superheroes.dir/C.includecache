@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/i3artek/Studies/Clion_/Algortihms/Superheroes/main.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

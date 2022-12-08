@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/i3artek/Studies/Clion_/Algortihms/Lab3/BST.cpp
+BST.h
+/Users/i3artek/Studies/Clion_/Algortihms/Lab3/BST.h
+queue
+-
+
+/Users/i3artek/Studies/Clion_/Algortihms/Lab3/BST.h
+iostream
+-
+

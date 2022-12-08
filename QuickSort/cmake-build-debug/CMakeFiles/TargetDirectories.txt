@@ -1,0 +1,3 @@
+/Users/i3artek/Studies/Clion_/Algortihms/QuickSort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/i3artek/Studies/Clion_/Algortihms/QuickSort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/i3artek/Studies/Clion_/Algortihms/QuickSort/cmake-build-debug/CMakeFiles/QuickSort.dir

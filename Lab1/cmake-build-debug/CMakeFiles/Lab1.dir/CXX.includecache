@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/i3artek/Studies/Clion_/Algortihms/Lab1/main.cpp
+stack.h
+/Users/i3artek/Studies/Clion_/Algortihms/Lab1/stack.h
+
+/Users/i3artek/Studies/Clion_/Algortihms/Lab1/stack.h
+iostream
+-
+

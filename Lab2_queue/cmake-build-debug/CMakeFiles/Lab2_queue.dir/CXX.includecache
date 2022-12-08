@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/i3artek/Studies/Clion_/Algortihms/Lab2_queue/SnakeAlgorithm.h
+
+/Users/i3artek/Studies/Clion_/Algortihms/Lab2_queue/main.cpp
+queue.h
+/Users/i3artek/Studies/Clion_/Algortihms/Lab2_queue/queue.h
+SnakeAlgorithm.h
+/Users/i3artek/Studies/Clion_/Algortihms/Lab2_queue/SnakeAlgorithm.h
+
+/Users/i3artek/Studies/Clion_/Algortihms/Lab2_queue/queue.h
+iostream
+-
+
