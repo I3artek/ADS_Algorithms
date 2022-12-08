@@ -57,10 +57,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort
+CMAKE_SOURCE_DIR = /Users/i3artek/Studies/Clion_/ADS_Algorithms/QueensBacktracking
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/i3artek/Studies/Clion_/ADS_Algorithms/QueensBacktracking/cmake-build-debug
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -87,9 +87,9 @@ edit_cache/fast: edit_cache
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/cmake-build-debug/CMakeFiles /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/cmake-build-debug//CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/i3artek/Studies/Clion_/ADS_Algorithms/QueensBacktracking/cmake-build-debug/CMakeFiles /Users/i3artek/Studies/Clion_/ADS_Algorithms/QueensBacktracking/cmake-build-debug//CMakeFiles/progress.marks
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/i3artek/Studies/Clion_/ADS_Algorithms/QueensBacktracking/cmake-build-debug/CMakeFiles 0
 .PHONY : all
 
 # The main clean target
@@ -117,48 +117,48 @@ depend:
 .PHONY : depend
 
 #=============================================================================
-# Target rules for targets named QuickSort
+# Target rules for targets named QueensBacktracking
 
 # Build rule for target.
-QuickSort: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 QuickSort
-.PHONY : QuickSort
+QueensBacktracking: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 QueensBacktracking
+.PHONY : QueensBacktracking
 
 # fast build rule for target.
-QuickSort/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuickSort.dir/build.make CMakeFiles/QuickSort.dir/build
-.PHONY : QuickSort/fast
+QueensBacktracking/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QueensBacktracking.dir/build.make CMakeFiles/QueensBacktracking.dir/build
+.PHONY : QueensBacktracking/fast
 
-QuickSort.o: QuickSort.c.o
-.PHONY : QuickSort.o
+Algorithm.o: Algorithm.c.o
+.PHONY : Algorithm.o
 
 # target to build an object file
-QuickSort.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuickSort.dir/build.make CMakeFiles/QuickSort.dir/QuickSort.c.o
-.PHONY : QuickSort.c.o
+Algorithm.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QueensBacktracking.dir/build.make CMakeFiles/QueensBacktracking.dir/Algorithm.c.o
+.PHONY : Algorithm.c.o
 
-QuickSort.i: QuickSort.c.i
-.PHONY : QuickSort.i
+Algorithm.i: Algorithm.c.i
+.PHONY : Algorithm.i
 
 # target to preprocess a source file
-QuickSort.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuickSort.dir/build.make CMakeFiles/QuickSort.dir/QuickSort.c.i
-.PHONY : QuickSort.c.i
+Algorithm.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QueensBacktracking.dir/build.make CMakeFiles/QueensBacktracking.dir/Algorithm.c.i
+.PHONY : Algorithm.c.i
 
-QuickSort.s: QuickSort.c.s
-.PHONY : QuickSort.s
+Algorithm.s: Algorithm.c.s
+.PHONY : Algorithm.s
 
 # target to generate assembly for a file
-QuickSort.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuickSort.dir/build.make CMakeFiles/QuickSort.dir/QuickSort.c.s
-.PHONY : QuickSort.c.s
+Algorithm.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QueensBacktracking.dir/build.make CMakeFiles/QueensBacktracking.dir/Algorithm.c.s
+.PHONY : Algorithm.c.s
 
 main.o: main.c.o
 .PHONY : main.o
 
 # target to build an object file
 main.c.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuickSort.dir/build.make CMakeFiles/QuickSort.dir/main.c.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QueensBacktracking.dir/build.make CMakeFiles/QueensBacktracking.dir/main.c.o
 .PHONY : main.c.o
 
 main.i: main.c.i
@@ -166,7 +166,7 @@ main.i: main.c.i
 
 # target to preprocess a source file
 main.c.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuickSort.dir/build.make CMakeFiles/QuickSort.dir/main.c.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QueensBacktracking.dir/build.make CMakeFiles/QueensBacktracking.dir/main.c.i
 .PHONY : main.c.i
 
 main.s: main.c.s
@@ -174,7 +174,7 @@ main.s: main.c.s
 
 # target to generate assembly for a file
 main.c.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuickSort.dir/build.make CMakeFiles/QuickSort.dir/main.c.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QueensBacktracking.dir/build.make CMakeFiles/QueensBacktracking.dir/main.c.s
 .PHONY : main.c.s
 
 # Help Target
@@ -185,10 +185,10 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
-	@echo "... QuickSort"
-	@echo "... QuickSort.o"
-	@echo "... QuickSort.i"
-	@echo "... QuickSort.s"
+	@echo "... QueensBacktracking"
+	@echo "... Algorithm.o"
+	@echo "... Algorithm.i"
+	@echo "... Algorithm.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

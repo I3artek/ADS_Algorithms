@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/QuickSort.c" "/Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/cmake-build-debug/CMakeFiles/QuickSort.dir/QuickSort.c.o"
-  "/Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/main.c" "/Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/cmake-build-debug/CMakeFiles/QuickSort.dir/main.c.o"
+  "/Users/i3artek/Studies/Clion_/ADS_Algorithms/QueensBacktracking/Algorithm.c" "/Users/i3artek/Studies/Clion_/ADS_Algorithms/QueensBacktracking/cmake-build-debug/CMakeFiles/QueensBacktracking.dir/Algorithm.c.o"
+  "/Users/i3artek/Studies/Clion_/ADS_Algorithms/QueensBacktracking/main.c" "/Users/i3artek/Studies/Clion_/ADS_Algorithms/QueensBacktracking/cmake-build-debug/CMakeFiles/QueensBacktracking.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

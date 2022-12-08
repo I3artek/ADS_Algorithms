@@ -53,10 +53,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/i3artek/Studies/Clion_/Algortihms/QuickSort
+CMAKE_SOURCE_DIR = /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/i3artek/Studies/Clion_/Algortihms/QuickSort/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/QuickSort.dir/depend.make
@@ -68,29 +68,29 @@ include CMakeFiles/QuickSort.dir/flags.make
 
 CMakeFiles/QuickSort.dir/main.c.o: CMakeFiles/QuickSort.dir/flags.make
 CMakeFiles/QuickSort.dir/main.c.o: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/i3artek/Studies/Clion_/Algortihms/QuickSort/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/QuickSort.dir/main.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/QuickSort.dir/main.c.o -c /Users/i3artek/Studies/Clion_/Algortihms/QuickSort/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/QuickSort.dir/main.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/QuickSort.dir/main.c.o -c /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/main.c
 
 CMakeFiles/QuickSort.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/QuickSort.dir/main.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/i3artek/Studies/Clion_/Algortihms/QuickSort/main.c > CMakeFiles/QuickSort.dir/main.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/main.c > CMakeFiles/QuickSort.dir/main.c.i
 
 CMakeFiles/QuickSort.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/QuickSort.dir/main.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/i3artek/Studies/Clion_/Algortihms/QuickSort/main.c -o CMakeFiles/QuickSort.dir/main.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/main.c -o CMakeFiles/QuickSort.dir/main.c.s
 
 CMakeFiles/QuickSort.dir/QuickSort.c.o: CMakeFiles/QuickSort.dir/flags.make
 CMakeFiles/QuickSort.dir/QuickSort.c.o: ../QuickSort.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/i3artek/Studies/Clion_/Algortihms/QuickSort/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/QuickSort.dir/QuickSort.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/QuickSort.dir/QuickSort.c.o -c /Users/i3artek/Studies/Clion_/Algortihms/QuickSort/QuickSort.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/QuickSort.dir/QuickSort.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/QuickSort.dir/QuickSort.c.o -c /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/QuickSort.c
 
 CMakeFiles/QuickSort.dir/QuickSort.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/QuickSort.dir/QuickSort.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/i3artek/Studies/Clion_/Algortihms/QuickSort/QuickSort.c > CMakeFiles/QuickSort.dir/QuickSort.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/QuickSort.c > CMakeFiles/QuickSort.dir/QuickSort.c.i
 
 CMakeFiles/QuickSort.dir/QuickSort.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/QuickSort.dir/QuickSort.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/i3artek/Studies/Clion_/Algortihms/QuickSort/QuickSort.c -o CMakeFiles/QuickSort.dir/QuickSort.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/QuickSort.c -o CMakeFiles/QuickSort.dir/QuickSort.c.s
 
 # Object files for target QuickSort
 QuickSort_OBJECTS = \
@@ -104,7 +104,7 @@ QuickSort: CMakeFiles/QuickSort.dir/main.c.o
 QuickSort: CMakeFiles/QuickSort.dir/QuickSort.c.o
 QuickSort: CMakeFiles/QuickSort.dir/build.make
 QuickSort: CMakeFiles/QuickSort.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/i3artek/Studies/Clion_/Algortihms/QuickSort/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable QuickSort"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable QuickSort"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/QuickSort.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -116,6 +116,6 @@ CMakeFiles/QuickSort.dir/clean:
 .PHONY : CMakeFiles/QuickSort.dir/clean
 
 CMakeFiles/QuickSort.dir/depend:
-	cd /Users/i3artek/Studies/Clion_/Algortihms/QuickSort/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/i3artek/Studies/Clion_/Algortihms/QuickSort /Users/i3artek/Studies/Clion_/Algortihms/QuickSort /Users/i3artek/Studies/Clion_/Algortihms/QuickSort/cmake-build-debug /Users/i3artek/Studies/Clion_/Algortihms/QuickSort/cmake-build-debug /Users/i3artek/Studies/Clion_/Algortihms/QuickSort/cmake-build-debug/CMakeFiles/QuickSort.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/cmake-build-debug /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/cmake-build-debug /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/cmake-build-debug/CMakeFiles/QuickSort.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/QuickSort.dir/depend
 

@@ -54,16 +54,16 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort
+CMAKE_SOURCE_DIR = /Users/i3artek/Studies/Clion_/ADS_Algorithms/QueensBacktracking
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/i3artek/Studies/Clion_/ADS_Algorithms/QueensBacktracking/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
 
 # The main recursive "all" target.
-all: CMakeFiles/QuickSort.dir/all
+all: CMakeFiles/QueensBacktracking.dir/all
 .PHONY : all
 
 # The main recursive "preinstall" target.
@@ -71,34 +71,34 @@ preinstall:
 .PHONY : preinstall
 
 # The main recursive "clean" target.
-clean: CMakeFiles/QuickSort.dir/clean
+clean: CMakeFiles/QueensBacktracking.dir/clean
 .PHONY : clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/QuickSort.dir
+# Target rules for target CMakeFiles/QueensBacktracking.dir
 
 # All Build rule for target.
-CMakeFiles/QuickSort.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuickSort.dir/build.make CMakeFiles/QuickSort.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuickSort.dir/build.make CMakeFiles/QuickSort.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target QuickSort"
-.PHONY : CMakeFiles/QuickSort.dir/all
+CMakeFiles/QueensBacktracking.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QueensBacktracking.dir/build.make CMakeFiles/QueensBacktracking.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QueensBacktracking.dir/build.make CMakeFiles/QueensBacktracking.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/i3artek/Studies/Clion_/ADS_Algorithms/QueensBacktracking/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target QueensBacktracking"
+.PHONY : CMakeFiles/QueensBacktracking.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/QuickSort.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/cmake-build-debug/CMakeFiles 3
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/QuickSort.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/i3artek/Studies/Clion_/ADS_Algorithms/QuickSort/cmake-build-debug/CMakeFiles 0
-.PHONY : CMakeFiles/QuickSort.dir/rule
+CMakeFiles/QueensBacktracking.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/i3artek/Studies/Clion_/ADS_Algorithms/QueensBacktracking/cmake-build-debug/CMakeFiles 3
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/QueensBacktracking.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/i3artek/Studies/Clion_/ADS_Algorithms/QueensBacktracking/cmake-build-debug/CMakeFiles 0
+.PHONY : CMakeFiles/QueensBacktracking.dir/rule
 
 # Convenience name for target.
-QuickSort: CMakeFiles/QuickSort.dir/rule
-.PHONY : QuickSort
+QueensBacktracking: CMakeFiles/QueensBacktracking.dir/rule
+.PHONY : QueensBacktracking
 
 # clean rule for target.
-CMakeFiles/QuickSort.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/QuickSort.dir/build.make CMakeFiles/QuickSort.dir/clean
-.PHONY : CMakeFiles/QuickSort.dir/clean
+CMakeFiles/QueensBacktracking.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/QueensBacktracking.dir/build.make CMakeFiles/QueensBacktracking.dir/clean
+.PHONY : CMakeFiles/QueensBacktracking.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.
