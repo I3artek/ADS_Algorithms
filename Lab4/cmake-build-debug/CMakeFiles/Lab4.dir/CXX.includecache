@@ -6,19 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/Users/i3artek/Studies/Clion_/Algortihms/Lab4/Code.cpp
+/Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/Code.cpp
 cstdio
 -
 cstdlib
 -
 Code.h
-/Users/i3artek/Studies/Clion_/Algortihms/Lab4/Code.h
+/Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/Code.h
 
-/Users/i3artek/Studies/Clion_/Algortihms/Lab4/Code.h
+/Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/Code.h
 
-/Users/i3artek/Studies/Clion_/Algortihms/Lab4/main.cpp
+/Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/main.cpp
 iostream
 -
 Code.h
-/Users/i3artek/Studies/Clion_/Algortihms/Lab4/Code.h
+/Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/Code.h
 

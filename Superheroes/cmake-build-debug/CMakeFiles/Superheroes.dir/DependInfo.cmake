@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/Users/i3artek/Studies/Clion_/Algortihms/Superheroes/QuickSort.c" "/Users/i3artek/Studies/Clion_/Algortihms/Superheroes/cmake-build-debug/CMakeFiles/Superheroes.dir/QuickSort.c.o"
-  "/Users/i3artek/Studies/Clion_/Algortihms/Superheroes/main.c" "/Users/i3artek/Studies/Clion_/Algortihms/Superheroes/cmake-build-debug/CMakeFiles/Superheroes.dir/main.c.o"
+  "/Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/QuickSort.c" "/Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/cmake-build-debug/CMakeFiles/Superheroes.dir/QuickSort.c.o"
+  "/Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/main.c" "/Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/cmake-build-debug/CMakeFiles/Superheroes.dir/main.c.o"
   )
 set(CMAKE_C_COMPILER_ID "AppleClang")
 

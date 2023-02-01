@@ -6,7 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/i3artek/Studies/Clion_/Algortihms/Superheroes/main.c
+/Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/QuickSort.c
+
+/Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/main.c
 stdio.h
 -
 stdlib.h

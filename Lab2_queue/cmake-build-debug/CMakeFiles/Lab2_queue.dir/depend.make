@@ -3,5 +3,4 @@
 
 CMakeFiles/Lab2_queue.dir/main.cpp.o: \
  ../SnakeAlgorithm.h \
- ../main.cpp \
- ../queue.h
+ ../main.cpp

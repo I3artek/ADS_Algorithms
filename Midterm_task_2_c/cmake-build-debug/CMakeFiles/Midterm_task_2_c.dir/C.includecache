@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/i3artek/Studies/Clion_/ADS_Algorithms/Midterm_task_2_c/main.c
+stdio.h
+-
+queue.h
+/Users/i3artek/Studies/Clion_/ADS_Algorithms/Midterm_task_2_c/queue.h
+
+/Users/i3artek/Studies/Clion_/ADS_Algorithms/Midterm_task_2_c/queue.h
+stdlib.h
+-
+string.h
+-
+

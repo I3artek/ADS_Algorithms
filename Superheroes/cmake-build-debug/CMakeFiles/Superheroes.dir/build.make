@@ -53,10 +53,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/i3artek/Studies/Clion_/Algortihms/Superheroes
+CMAKE_SOURCE_DIR = /Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/i3artek/Studies/Clion_/Algortihms/Superheroes/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Superheroes.dir/depend.make
@@ -68,29 +68,29 @@ include CMakeFiles/Superheroes.dir/flags.make
 
 CMakeFiles/Superheroes.dir/main.c.o: CMakeFiles/Superheroes.dir/flags.make
 CMakeFiles/Superheroes.dir/main.c.o: ../main.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/i3artek/Studies/Clion_/Algortihms/Superheroes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Superheroes.dir/main.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Superheroes.dir/main.c.o -c /Users/i3artek/Studies/Clion_/Algortihms/Superheroes/main.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/Superheroes.dir/main.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Superheroes.dir/main.c.o -c /Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/main.c
 
 CMakeFiles/Superheroes.dir/main.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Superheroes.dir/main.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/i3artek/Studies/Clion_/Algortihms/Superheroes/main.c > CMakeFiles/Superheroes.dir/main.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/main.c > CMakeFiles/Superheroes.dir/main.c.i
 
 CMakeFiles/Superheroes.dir/main.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Superheroes.dir/main.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/i3artek/Studies/Clion_/Algortihms/Superheroes/main.c -o CMakeFiles/Superheroes.dir/main.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/main.c -o CMakeFiles/Superheroes.dir/main.c.s
 
 CMakeFiles/Superheroes.dir/QuickSort.c.o: CMakeFiles/Superheroes.dir/flags.make
 CMakeFiles/Superheroes.dir/QuickSort.c.o: ../QuickSort.c
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/i3artek/Studies/Clion_/Algortihms/Superheroes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Superheroes.dir/QuickSort.c.o"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Superheroes.dir/QuickSort.c.o -c /Users/i3artek/Studies/Clion_/Algortihms/Superheroes/QuickSort.c
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building C object CMakeFiles/Superheroes.dir/QuickSort.c.o"
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -o CMakeFiles/Superheroes.dir/QuickSort.c.o -c /Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/QuickSort.c
 
 CMakeFiles/Superheroes.dir/QuickSort.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing C source to CMakeFiles/Superheroes.dir/QuickSort.c.i"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/i3artek/Studies/Clion_/Algortihms/Superheroes/QuickSort.c > CMakeFiles/Superheroes.dir/QuickSort.c.i
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E /Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/QuickSort.c > CMakeFiles/Superheroes.dir/QuickSort.c.i
 
 CMakeFiles/Superheroes.dir/QuickSort.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling C source to assembly CMakeFiles/Superheroes.dir/QuickSort.c.s"
-	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/i3artek/Studies/Clion_/Algortihms/Superheroes/QuickSort.c -o CMakeFiles/Superheroes.dir/QuickSort.c.s
+	/Library/Developer/CommandLineTools/usr/bin/cc $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S /Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/QuickSort.c -o CMakeFiles/Superheroes.dir/QuickSort.c.s
 
 # Object files for target Superheroes
 Superheroes_OBJECTS = \
@@ -104,7 +104,7 @@ Superheroes: CMakeFiles/Superheroes.dir/main.c.o
 Superheroes: CMakeFiles/Superheroes.dir/QuickSort.c.o
 Superheroes: CMakeFiles/Superheroes.dir/build.make
 Superheroes: CMakeFiles/Superheroes.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/i3artek/Studies/Clion_/Algortihms/Superheroes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable Superheroes"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking C executable Superheroes"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Superheroes.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -116,6 +116,6 @@ CMakeFiles/Superheroes.dir/clean:
 .PHONY : CMakeFiles/Superheroes.dir/clean
 
 CMakeFiles/Superheroes.dir/depend:
-	cd /Users/i3artek/Studies/Clion_/Algortihms/Superheroes/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/i3artek/Studies/Clion_/Algortihms/Superheroes /Users/i3artek/Studies/Clion_/Algortihms/Superheroes /Users/i3artek/Studies/Clion_/Algortihms/Superheroes/cmake-build-debug /Users/i3artek/Studies/Clion_/Algortihms/Superheroes/cmake-build-debug /Users/i3artek/Studies/Clion_/Algortihms/Superheroes/cmake-build-debug/CMakeFiles/Superheroes.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes /Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes /Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/cmake-build-debug /Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/cmake-build-debug /Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/cmake-build-debug/CMakeFiles/Superheroes.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Superheroes.dir/depend
 

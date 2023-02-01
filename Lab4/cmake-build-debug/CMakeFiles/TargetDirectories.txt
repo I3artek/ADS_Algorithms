@@ -1,3 +1,3 @@
-/Users/i3artek/Studies/Clion_/Algortihms/Lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/i3artek/Studies/Clion_/Algortihms/Lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/i3artek/Studies/Clion_/Algortihms/Lab4/cmake-build-debug/CMakeFiles/Lab4.dir
+/Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/cmake-build-debug/CMakeFiles/Lab4.dir

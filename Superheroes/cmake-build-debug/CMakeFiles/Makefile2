@@ -54,10 +54,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/i3artek/Studies/Clion_/Algortihms/Superheroes
+CMAKE_SOURCE_DIR = /Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/i3artek/Studies/Clion_/Algortihms/Superheroes/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/cmake-build-debug
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -81,14 +81,14 @@ clean: CMakeFiles/Superheroes.dir/clean
 CMakeFiles/Superheroes.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Superheroes.dir/build.make CMakeFiles/Superheroes.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Superheroes.dir/build.make CMakeFiles/Superheroes.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/i3artek/Studies/Clion_/Algortihms/Superheroes/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target Superheroes"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/cmake-build-debug/CMakeFiles --progress-num=1,2,3 "Built target Superheroes"
 .PHONY : CMakeFiles/Superheroes.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Superheroes.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/i3artek/Studies/Clion_/Algortihms/Superheroes/cmake-build-debug/CMakeFiles 3
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/cmake-build-debug/CMakeFiles 3
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/Superheroes.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /Users/i3artek/Studies/Clion_/Algortihms/Superheroes/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/cmake-build-debug/CMakeFiles 0
 .PHONY : CMakeFiles/Superheroes.dir/rule
 
 # Convenience name for target.

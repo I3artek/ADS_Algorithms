@@ -1,4 +1,4 @@
-# Install script for directory: /Users/i3artek/Studies/Clion_/Algortihms/Superheroes
+# Install script for directory: /Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/i3artek/Studies/Clion_/Algortihms/Superheroes/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/i3artek/Studies/Clion_/ADS_Algorithms/Superheroes/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

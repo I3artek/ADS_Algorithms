@@ -109,7 +109,7 @@ int main() {
                 8, 1, "Strongerfly"
             },
             {
-                32, 32, "Doom"
+                32, 30, "Doom"
             }
     };
     QuickSort(test, 6, compareVillainsByEgo);

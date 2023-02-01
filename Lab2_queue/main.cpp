@@ -1,4 +1,4 @@
-#include "queue.h"
+#include <iostream>
 #include "SnakeAlgorithm.h"
 
 int main() {
@@ -21,7 +21,7 @@ int main() {
     s.set_snake(93, 73);
     s.set_snake(95, 75);
     s.set_snake(98, 79);
-    cout << s.smallest_number_of_steps();
+    std::cout << s.smallest_number_of_steps();
 
     return 0;
 }

@@ -53,10 +53,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/i3artek/Studies/Clion_/Algortihms/Lab4
+CMAKE_SOURCE_DIR = /Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/i3artek/Studies/Clion_/Algortihms/Lab4/cmake-build-debug
+CMAKE_BINARY_DIR = /Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Lab4.dir/depend.make
@@ -68,29 +68,29 @@ include CMakeFiles/Lab4.dir/flags.make
 
 CMakeFiles/Lab4.dir/main.cpp.o: CMakeFiles/Lab4.dir/flags.make
 CMakeFiles/Lab4.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/i3artek/Studies/Clion_/Algortihms/Lab4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Lab4.dir/main.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab4.dir/main.cpp.o -c /Users/i3artek/Studies/Clion_/Algortihms/Lab4/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Lab4.dir/main.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab4.dir/main.cpp.o -c /Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/main.cpp
 
 CMakeFiles/Lab4.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab4.dir/main.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/i3artek/Studies/Clion_/Algortihms/Lab4/main.cpp > CMakeFiles/Lab4.dir/main.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/main.cpp > CMakeFiles/Lab4.dir/main.cpp.i
 
 CMakeFiles/Lab4.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab4.dir/main.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/i3artek/Studies/Clion_/Algortihms/Lab4/main.cpp -o CMakeFiles/Lab4.dir/main.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/main.cpp -o CMakeFiles/Lab4.dir/main.cpp.s
 
 CMakeFiles/Lab4.dir/Code.cpp.o: CMakeFiles/Lab4.dir/flags.make
 CMakeFiles/Lab4.dir/Code.cpp.o: ../Code.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/i3artek/Studies/Clion_/Algortihms/Lab4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Lab4.dir/Code.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab4.dir/Code.cpp.o -c /Users/i3artek/Studies/Clion_/Algortihms/Lab4/Code.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Lab4.dir/Code.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/Lab4.dir/Code.cpp.o -c /Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/Code.cpp
 
 CMakeFiles/Lab4.dir/Code.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Lab4.dir/Code.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/i3artek/Studies/Clion_/Algortihms/Lab4/Code.cpp > CMakeFiles/Lab4.dir/Code.cpp.i
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/Code.cpp > CMakeFiles/Lab4.dir/Code.cpp.i
 
 CMakeFiles/Lab4.dir/Code.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Lab4.dir/Code.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/i3artek/Studies/Clion_/Algortihms/Lab4/Code.cpp -o CMakeFiles/Lab4.dir/Code.cpp.s
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/Code.cpp -o CMakeFiles/Lab4.dir/Code.cpp.s
 
 # Object files for target Lab4
 Lab4_OBJECTS = \
@@ -104,7 +104,7 @@ Lab4: CMakeFiles/Lab4.dir/main.cpp.o
 Lab4: CMakeFiles/Lab4.dir/Code.cpp.o
 Lab4: CMakeFiles/Lab4.dir/build.make
 Lab4: CMakeFiles/Lab4.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/i3artek/Studies/Clion_/Algortihms/Lab4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Lab4"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable Lab4"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/Lab4.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -116,6 +116,6 @@ CMakeFiles/Lab4.dir/clean:
 .PHONY : CMakeFiles/Lab4.dir/clean
 
 CMakeFiles/Lab4.dir/depend:
-	cd /Users/i3artek/Studies/Clion_/Algortihms/Lab4/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/i3artek/Studies/Clion_/Algortihms/Lab4 /Users/i3artek/Studies/Clion_/Algortihms/Lab4 /Users/i3artek/Studies/Clion_/Algortihms/Lab4/cmake-build-debug /Users/i3artek/Studies/Clion_/Algortihms/Lab4/cmake-build-debug /Users/i3artek/Studies/Clion_/Algortihms/Lab4/cmake-build-debug/CMakeFiles/Lab4.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4 /Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4 /Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/cmake-build-debug /Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/cmake-build-debug /Users/i3artek/Studies/Clion_/ADS_Algorithms/Lab4/cmake-build-debug/CMakeFiles/Lab4.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Lab4.dir/depend
 

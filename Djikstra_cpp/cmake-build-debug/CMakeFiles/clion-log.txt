@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /Users/i3artek/Studies/Clion_/ADS_Algorithms/Djikstra_cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/i3artek/Studies/Clion_/ADS_Algorithms/Djikstra_cpp/cmake-build-debug
